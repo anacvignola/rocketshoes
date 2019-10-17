@@ -35,14 +35,14 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] or higher + [Yarn][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/anacvignola/rocketshoes
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd rocketshoes
 
 # Install dependencies
 $ yarn install
