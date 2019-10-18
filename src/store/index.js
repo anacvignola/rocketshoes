@@ -1,9 +1,7 @@
 import { createStore } from 'redux';
 
-function cart() {
-  return [];
-}
+import reducer from './mudules/cart/reducer';
 
-const store = createStore(cart);
+const store = createStore(reducer);
 
 export default store;
