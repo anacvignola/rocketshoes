@@ -1,4 +1,4 @@
-T<h1 align="center">
+<h1 align="center">
     <br>
     React RocketShoes
 </h1>
